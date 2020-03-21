@@ -1,5 +1,5 @@
 import React from "react";
-import { Row, Col } from "reactstrap";
+import { Col } from "reactstrap";
 
 export default function CharacterCard(props) {
     console.log(props);
