@@ -27,6 +27,8 @@ export default function CharacterList() {
     //     })
     // );
 
+    //console.log(charSet);
+
     const changeHandler = (e) => {
         //console.log(e.target.value);
         setSearchKey(e.target.value);
